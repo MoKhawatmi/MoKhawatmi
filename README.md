@@ -2,7 +2,7 @@
 
 I'm a highly motivated, aspiring, and hardworking individual seeking to improve, learn, and gain more experience in my field.
 
-I love programming and problem solving. Currently i specialize in Android and fullstack web development and i will continue to gain other skills in the future.
+I love programming and problem solving. Currently i specialize in Android and fullstack web development and i will continue to acquire other skills in the future.
 
 I carry a bachelor's degree in Computer science.
 
