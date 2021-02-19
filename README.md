@@ -10,5 +10,6 @@ I carry a bachelor's degree in Computer science.
 * Android Development
 * Front-end web development: HTML, CSS, Javascript, and Bootstrap
 * Back-end development: Node.JS, Express.JS, and their related packages
+* Building and using RESTful APIs
 * Databases: MYSql, Firebase Firestore, and MongoDB
 * Java SE
